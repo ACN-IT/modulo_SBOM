@@ -1,0 +1,34 @@
+publiccodeYmlVersion: 0.4.0
+name: ACN_Modulo_SBOM
+url: https://github.com/ACN-IT/modulo_SBOM
+releaseDate: 2025-10-24
+platforms:
+  - windows
+  - linux
+  - mac
+categories:
+  - data-analytics
+  - procurement
+developmentStatus: concept
+softwareType: standalone/desktop
+description:
+  it:
+    localisedName: ACN_Modulo_SBOM
+    shortDescription: Tool per l'analisi di SBOM in formato Cyclone DX v1.6  per
+      applicazione del criterio di premialità ex art. 4 del DPCM 30 aprile 2025
+      e Linee Guida ACN
+    longDescription: Lo strumento consente di analizzare file in formato Cyclone DX
+      v1.6 e di verificare i presupposti per l'applicazione dei criteri di
+      premialità di cui all'articolo 4 del DPCM 30 aprile 2025 e delle “Linee
+      guida per l’applicazione dei criteri di premialità”, adottate da ACN,
+      sentita ANAC.
+    features:
+      - Parsing SBOM Cyclone DX v1.6
+legal:
+  license: EUPL-1.2
+maintenance:
+  type: none
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - it-IT
