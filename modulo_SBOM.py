@@ -104,10 +104,10 @@ class RegexPatterns:
 
 # Paesi in whitelist - utilizzo di frozenset per ricerca O(1)
 WHITELISTED_COUNTRIES = frozenset([
-    "AL", "AT", "BE", "BG", "CA", "CY", "CZ", "DE", "DK", "EE",
-    "EL", "ES", "FI", "FR", "GB", "GR", "HR", "HU", "IE", "IS",
-    "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL",
-    "PT", "RO", "SE", "SK", "SI", "TR", "US"])
+    "AL", "AT", "AU", "BE", "BG", "CA", "CH", "CY", "CZ", "DE", "DK", "EE",
+    "EL", "ES", "FI", "FR", "GB" , "HR", "HU", "IE", "IL", "IS",
+    "IT", "JP", "KR", "LT", "LU", "LV", "ME", " MK", "MT", "NL", "NO", "NZ", "PL",
+    "PT", "RO", "SE", "SI", "SK", "TR", "US"])
 
 # Costanti per la formattazione dell'output
 class OutputFormat:
