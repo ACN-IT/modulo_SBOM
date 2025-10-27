@@ -17,7 +17,7 @@ Utilizzare il package manager [pip](https://pip.pypa.io/en/stable/) per installa
 pip install cyclonedx-python-lib[validation]==11.0.0
 ```
 
-Creare una cartella (es. sibilla)
+Creare una cartella (es. modulo_SBOM)
 ```bash
 mkdir modulo_SBOM
 ```
