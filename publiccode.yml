@@ -1,4 +1,4 @@
-publiccodeYmlVersion: 0.4.0
+publiccodeYmlVersion: 0.5.0
 name: ACN_Modulo_SBOM
 url: https://github.com/ACN-IT/modulo_SBOM
 releaseDate: 2025-10-24
@@ -9,6 +9,9 @@ platforms:
 categories:
   - data-analytics
   - procurement
+organisation:
+  name: Agenzia per la cybersicurezza nazionale
+  uri: urn:x-italian-pa:t0a9hla8
 developmentStatus: concept
 softwareType: standalone/desktop
 description:
