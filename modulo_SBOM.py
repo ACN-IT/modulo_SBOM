@@ -106,7 +106,7 @@ class RegexPatterns:
 WHITELISTED_COUNTRIES = frozenset([
     "AL", "AT", "AU", "BE", "BG", "CA", "CH", "CY", "CZ", "DE", "DK", "EE",
     "EL", "ES", "FI", "FR", "GB" , "HR", "HU", "IE", "IL", "IS",
-    "IT", "JP", "KR", "LT", "LU", "LV", "ME", " MK", "MT", "NL", "NO", "NZ", "PL",
+    "IT", "JP", "KR", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "NZ", "PL",
     "PT", "RO", "SE", "SI", "SK", "TR", "US"])
 
 # Costanti per la formattazione dell'output
